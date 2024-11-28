@@ -1,0 +1,33 @@
+/* Footer Section Start */
+.footer {
+    background-color: #0a0a0a; /* Matches the dark theme */
+}
+
+.footer h5 {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.footer ul {
+    padding: 0;
+    list-style: none;
+}
+
+.footer ul li a {
+    font-size: 14px;
+    transition: color 0.2s;
+}
+
+.footer ul li a:hover {
+    color: #ffc107; /* Highlight color */
+}
+
+.footer .bi {
+    font-size: 1.5rem;
+    transition: color 0.3s;
+}
+
+.footer .bi:hover {
+    color: #ffc107; /* Highlight color */
+}
+/* Footer Section End */
